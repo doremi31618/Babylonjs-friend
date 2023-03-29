@@ -1,0 +1,905 @@
+Exporter version: 3.3-beta 1, Blender version: 3.3.1
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  true
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+	Python World class constructor completed
+	processing begun of mesh:  平面
+		processing begun of material:  Material.004
+		Custom split normals with tangents being used
+		num positions      :  552
+		num normals        :  552
+		num tangents       :  2208
+		num uvs            :  1104
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  360
+	processing begun of mesh:  圓柱體
+		WARNING: No materials have been assigned: 
+		Custom split normals with tangents being used
+		num positions      :  130
+		num normals        :  130
+		num tangents       :  520
+		num uvs            :  260
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  124
+	processing begun of mesh:  圓柱體.001
+		WARNING: No materials have been assigned: 
+		Custom split normals with tangents being used
+		num positions      :  192
+		num normals        :  192
+		num tangents       :  768
+		num uvs            :  384
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  124
+	processing begun of mesh:  圓柱體.002
+		WARNING: No materials have been assigned: 
+		Custom split normals with tangents being used
+		num positions      :  130
+		num normals        :  130
+		num tangents       :  520
+		num uvs            :  260
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  124
+	processing begun of mesh:  圓柱體.003
+		WARNING: No materials have been assigned: 
+		Custom split normals with tangents being used
+		num positions      :  192
+		num normals        :  192
+		num tangents       :  768
+		num uvs            :  384
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  124
+	processing begun of node:  tracks
+	processing begun of node:  1_1.001
+	processing begun of node:  4_1
+	processing begun of node:  3_1
+	processing begun of node:  2_1
+	processing begun of node:  track_1
+	processing begun of node:  1_1
+	processing begun of node:  1_2
+	processing begun of node:  1_3
+	processing begun of node:  1_4
+	processing begun of node:  1_5
+	processing begun of node:  1_6
+	processing begun of mesh:  立方體.097
+		processing begun of material:  Material.121
+		Custom split normals with tangents being used
+		num positions      :  263
+		num normals        :  263
+		num tangents       :  1052
+		num uvs            :  526
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  224
+	processing begun of mesh:  立方體.096
+		processing begun of material:  Material.103
+			WARNING: Metal channel baking required, but not possible, ignored
+			WARNING: Roughness channel baking required, but not possible, ignored
+			WARNING: Refraction channel baking required, but not possible, ignored
+			Baking texture, type: DIFFUSE, mapped using: BakingUV
+			processing texture baked_096_DIFFUSE
+			Diffuse / albeto channel baked
+			Baking texture, type: EMIT, mapped using: BakingUV
+			processing texture baked_096_EMIT
+			emissive channel baked
+			Baking texture, type: GLOSSY, mapped using: BakingUV
+			processing texture baked_096_GLOSSY
+			specular channel baked
+			bake time:  0 min, 7.438 secs
+		Custom split normals with tangents being used
+		num positions      :  4701
+		num normals        :  4701
+		num tangents       :  18804
+		num uvs            :  9402
+		num uvs2           :  0
+		num colors         :  18804
+		num triangles      :  3380
+	processing begun of mesh:  球體.008
+		processing begun of material:  Material.001
+		Custom split normals with tangents being used
+		num positions      :  5289
+		num normals        :  5289
+		num tangents       :  21156
+		num uvs            :  10578
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  7936
+	processing begun of mesh:  球體.005
+		processing begun of material:  Material.028
+		Custom split normals with tangents being used
+		num positions      :  1118
+		num normals        :  1118
+		num tangents       :  4472
+		num uvs            :  2236
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1920
+	processing begun of mesh:  立方體.001
+		processing begun of material:  Material.121
+		registered as also a user of material:  Material.121
+		Custom split normals with tangents being used
+		num positions      :  263
+		num normals        :  263
+		num tangents       :  1052
+		num uvs            :  526
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  224
+	processing begun of mesh:  立方體.002
+		processing begun of material:  Material.002
+			processing texture _002
+		Custom split normals with tangents being used
+		num positions      :  4754
+		num normals        :  4754
+		num tangents       :  19016
+		num uvs            :  9508
+		num uvs2           :  0
+		num colors         :  19016
+		num triangles      :  3380
+	processing begun of mesh:  球體.001
+		processing begun of material:  Material.001
+			WARNING: Metal channel baking required, but not possible, ignored
+			WARNING: Roughness channel baking required, but not possible, ignored
+			WARNING: Refraction channel baking required, but not possible, ignored
+			Baking texture, type: DIFFUSE, mapped using: BakingUV
+			processing texture baked_001_DIFFUSE
+			Diffuse / albeto channel baked
+			Baking texture, type: EMIT, mapped using: BakingUV
+			processing texture baked_001_EMIT
+			emissive channel baked
+			Baking texture, type: GLOSSY, mapped using: BakingUV
+			processing texture baked_001_GLOSSY
+			specular channel baked
+			bake time:  0 min, 7.6296 secs
+		Custom split normals with tangents being used
+		num positions      :  6348
+		num normals        :  6348
+		num tangents       :  25392
+		num uvs            :  12696
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  7936
+	processing begun of mesh:  球體.002
+		processing begun of material:  Material.028
+		registered as also a user of material:  Material.028
+		Custom split normals with tangents being used
+		num positions      :  1118
+		num normals        :  1118
+		num tangents       :  4472
+		num uvs            :  2236
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1920
+	processing begun of mesh:  立方體.003
+		processing begun of material:  Material.121
+		registered as also a user of material:  Material.121
+		Custom split normals with tangents being used
+		num positions      :  263
+		num normals        :  263
+		num tangents       :  1052
+		num uvs            :  526
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  224
+	processing begun of mesh:  立方體.004
+		processing begun of material:  bake
+			WARNING: Metal channel baking required, but not possible, ignored
+			WARNING: Roughness channel baking required, but not possible, ignored
+			WARNING: Refraction channel baking required, but not possible, ignored
+			Baking texture, type: DIFFUSE, mapped using: BakingUV
+			processing texture baked_004_DIFFUSE
+			Diffuse / albeto channel baked
+			Baking texture, type: EMIT, mapped using: BakingUV
+			processing texture baked_004_EMIT
+			emissive channel baked
+			Baking texture, type: GLOSSY, mapped using: BakingUV
+			processing texture baked_004_GLOSSY
+			specular channel baked
+			bake time:  0 min, 7.424 secs
+		Custom split normals with tangents being used
+		num positions      :  4701
+		num normals        :  4701
+		num tangents       :  18804
+		num uvs            :  9402
+		num uvs2           :  0
+		num colors         :  18804
+		num triangles      :  3380
+	processing begun of mesh:  球體.003
+		processing begun of material:  Material.001
+		registered as also a user of material:  Material.001
+		Custom split normals with tangents being used
+		num positions      :  5289
+		num normals        :  5289
+		num tangents       :  21156
+		num uvs            :  10578
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  7936
+	processing begun of mesh:  球體.004
+		processing begun of material:  Material.028
+		registered as also a user of material:  Material.028
+		Custom split normals with tangents being used
+		num positions      :  1118
+		num normals        :  1118
+		num tangents       :  4472
+		num uvs            :  2236
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1920
+	processing begun of mesh:  立方體.005
+		processing begun of material:  Material.121
+		registered as also a user of material:  Material.121
+		Custom split normals with tangents being used
+		num positions      :  263
+		num normals        :  263
+		num tangents       :  1052
+		num uvs            :  526
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  224
+	processing begun of mesh:  立方體.006
+		processing begun of material:  Material.103
+			WARNING: Metal channel baking required, but not possible, ignored
+			WARNING: Roughness channel baking required, but not possible, ignored
+			WARNING: Refraction channel baking required, but not possible, ignored
+			Baking texture, type: DIFFUSE, mapped using: BakingUV
+			processing texture baked_006_DIFFUSE
+			Diffuse / albeto channel baked
+			Baking texture, type: EMIT, mapped using: BakingUV
+			processing texture baked_006_EMIT
+			emissive channel baked
+			Baking texture, type: GLOSSY, mapped using: BakingUV
+			processing texture baked_006_GLOSSY
+			specular channel baked
+			bake time:  0 min, 7.44 secs
+		Custom split normals with tangents being used
+		num positions      :  4701
+		num normals        :  4701
+		num tangents       :  18804
+		num uvs            :  9402
+		num uvs2           :  0
+		num colors         :  18804
+		num triangles      :  3380
+	processing begun of mesh:  球體.006
+		processing begun of material:  Material.001
+		registered as also a user of material:  Material.001
+		Custom split normals with tangents being used
+		num positions      :  5289
+		num normals        :  5289
+		num tangents       :  21156
+		num uvs            :  10578
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  7936
+	processing begun of mesh:  球體.007
+		processing begun of material:  Material.028
+		registered as also a user of material:  Material.028
+		Custom split normals with tangents being used
+		num positions      :  1118
+		num normals        :  1118
+		num tangents       :  4472
+		num uvs            :  2236
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1920
+	processing begun of camera (UniversalCamera):  Camera
+	processing begun of mesh:  01
+		processing begun of material:  材質.001
+			processing texture 
+		Custom split normals with tangents being used
+		num positions      :  20
+		num normals        :  20
+		num tangents       :  80
+		num uvs            :  40
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  10
+	processing begun of mesh:  01.001
+		processing begun of material:  材質.009
+			processing texture 
+		Custom split normals with tangents being used
+		num positions      :  20
+		num normals        :  20
+		num tangents       :  80
+		num uvs            :  40
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  10
+	processing begun of mesh:  01.002
+		processing begun of material:  材質.001
+		registered as also a user of material:  材質.001
+		Custom split normals with tangents being used
+		num positions      :  20
+		num normals        :  20
+		num tangents       :  80
+		num uvs            :  40
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  10
+	processing begun of mesh:  01.003
+		processing begun of material:  材質.001
+		registered as also a user of material:  材質.001
+		Custom split normals with tangents being used
+		num positions      :  20
+		num normals        :  20
+		num tangents       :  80
+		num uvs            :  40
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  10
+	processing begun of mesh:  01.004
+		processing begun of material:  材質.009
+		registered as also a user of material:  材質.009
+		Custom split normals with tangents being used
+		num positions      :  20
+		num normals        :  20
+		num tangents       :  80
+		num uvs            :  40
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  10
+	processing begun of mesh:  01.005
+		processing begun of material:  材質.001
+		registered as also a user of material:  材質.001
+		Custom split normals with tangents being used
+		num positions      :  20
+		num normals        :  20
+		num tangents       :  80
+		num uvs            :  40
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  10
+	processing begun of mesh:  02
+		processing begun of material:  材質.002
+			processing texture 
+		Custom split normals with tangents being used
+		num positions      :  20
+		num normals        :  20
+		num tangents       :  80
+		num uvs            :  40
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  10
+	processing begun of mesh:  02.001
+		processing begun of material:  材質.002
+		registered as also a user of material:  材質.002
+		Custom split normals with tangents being used
+		num positions      :  20
+		num normals        :  20
+		num tangents       :  80
+		num uvs            :  40
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  10
+	processing begun of mesh:  02.002
+		processing begun of material:  材質.002
+		registered as also a user of material:  材質.002
+		Custom split normals with tangents being used
+		num positions      :  20
+		num normals        :  20
+		num tangents       :  80
+		num uvs            :  40
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  10
+	processing begun of mesh:  02.003
+		processing begun of material:  材質.002
+		registered as also a user of material:  材質.002
+		Custom split normals with tangents being used
+		num positions      :  20
+		num normals        :  20
+		num tangents       :  80
+		num uvs            :  40
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  10
+	processing begun of mesh:  02.004
+		processing begun of material:  材質.002
+		registered as also a user of material:  材質.002
+		Custom split normals with tangents being used
+		num positions      :  20
+		num normals        :  20
+		num tangents       :  80
+		num uvs            :  40
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  10
+	processing begun of mesh:  02.005
+		processing begun of material:  材質.002
+		registered as also a user of material:  材質.002
+		Custom split normals with tangents being used
+		num positions      :  20
+		num normals        :  20
+		num tangents       :  80
+		num uvs            :  40
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  10
+	processing begun of mesh:  03
+		processing begun of material:  材質.007
+			processing texture 
+		Custom split normals with tangents being used
+		num positions      :  20
+		num normals        :  20
+		num tangents       :  80
+		num uvs            :  40
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  10
+	processing begun of mesh:  03.001
+		processing begun of material:  材質.007
+		registered as also a user of material:  材質.007
+		Custom split normals with tangents being used
+		num positions      :  20
+		num normals        :  20
+		num tangents       :  80
+		num uvs            :  40
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  10
+	processing begun of mesh:  03.002
+		processing begun of material:  材質.007
+		registered as also a user of material:  材質.007
+		Custom split normals with tangents being used
+		num positions      :  20
+		num normals        :  20
+		num tangents       :  80
+		num uvs            :  40
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  10
+	processing begun of mesh:  03.003
+		processing begun of material:  材質.007
+		registered as also a user of material:  材質.007
+		Custom split normals with tangents being used
+		num positions      :  20
+		num normals        :  20
+		num tangents       :  80
+		num uvs            :  40
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  10
+	processing begun of mesh:  03.004
+		processing begun of material:  材質.007
+		registered as also a user of material:  材質.007
+		Custom split normals with tangents being used
+		num positions      :  20
+		num normals        :  20
+		num tangents       :  80
+		num uvs            :  40
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  10
+	processing begun of mesh:  03.005
+		processing begun of material:  材質.007
+		registered as also a user of material:  材質.007
+		Custom split normals with tangents being used
+		num positions      :  20
+		num normals        :  20
+		num tangents       :  80
+		num uvs            :  40
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  10
+	processing begun of mesh:  04
+		processing begun of material:  材質.012
+			processing texture 
+		Custom split normals with tangents being used
+		num positions      :  20
+		num normals        :  20
+		num tangents       :  80
+		num uvs            :  40
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  10
+	processing begun of mesh:  04.001
+		processing begun of material:  材質.005
+			processing texture 
+		Custom split normals with tangents being used
+		num positions      :  20
+		num normals        :  20
+		num tangents       :  80
+		num uvs            :  40
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  10
+	processing begun of mesh:  04.002
+		processing begun of material:  材質.005
+		registered as also a user of material:  材質.005
+		Custom split normals with tangents being used
+		num positions      :  20
+		num normals        :  20
+		num tangents       :  80
+		num uvs            :  40
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  10
+	processing begun of mesh:  04.003
+		processing begun of material:  材質.012
+		registered as also a user of material:  材質.012
+		Custom split normals with tangents being used
+		num positions      :  20
+		num normals        :  20
+		num tangents       :  80
+		num uvs            :  40
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  10
+	processing begun of mesh:  04.004
+		processing begun of material:  材質.005
+		registered as also a user of material:  材質.005
+		Custom split normals with tangents being used
+		num positions      :  20
+		num normals        :  20
+		num tangents       :  80
+		num uvs            :  40
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  10
+	processing begun of mesh:  04.005
+		processing begun of material:  材質.005
+		registered as also a user of material:  材質.005
+		Custom split normals with tangents being used
+		num positions      :  20
+		num normals        :  20
+		num tangents       :  80
+		num uvs            :  40
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  10
+	processing begun of mesh:  05
+		processing begun of material:  材質.011
+			processing texture 
+		Custom split normals with tangents being used
+		num positions      :  20
+		num normals        :  20
+		num tangents       :  80
+		num uvs            :  40
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  10
+	processing begun of mesh:  05.001
+		processing begun of material:  材質.008
+			processing texture 
+		Custom split normals with tangents being used
+		num positions      :  20
+		num normals        :  20
+		num tangents       :  80
+		num uvs            :  40
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  10
+	processing begun of mesh:  05.002
+		processing begun of material:  材質.008
+		registered as also a user of material:  材質.008
+		Custom split normals with tangents being used
+		num positions      :  20
+		num normals        :  20
+		num tangents       :  80
+		num uvs            :  40
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  10
+	processing begun of mesh:  05.003
+		processing begun of material:  材質.011
+		registered as also a user of material:  材質.011
+		Custom split normals with tangents being used
+		num positions      :  20
+		num normals        :  20
+		num tangents       :  80
+		num uvs            :  40
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  10
+	processing begun of mesh:  05.004
+		processing begun of material:  材質.008
+		registered as also a user of material:  材質.008
+		Custom split normals with tangents being used
+		num positions      :  20
+		num normals        :  20
+		num tangents       :  80
+		num uvs            :  40
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  10
+	processing begun of mesh:  05.005
+		processing begun of material:  材質.008
+		registered as also a user of material:  材質.008
+		Custom split normals with tangents being used
+		num positions      :  20
+		num normals        :  20
+		num tangents       :  80
+		num uvs            :  40
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  10
+	processing begun of mesh:  06
+		processing begun of material:  材質.003
+			processing texture 
+		Custom split normals with tangents being used
+		num positions      :  20
+		num normals        :  20
+		num tangents       :  80
+		num uvs            :  40
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  10
+	processing begun of mesh:  06.001
+		processing begun of material:  材質.003
+		registered as also a user of material:  材質.003
+		Custom split normals with tangents being used
+		num positions      :  20
+		num normals        :  20
+		num tangents       :  80
+		num uvs            :  40
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  10
+	processing begun of mesh:  06.002
+		processing begun of material:  材質.003
+		registered as also a user of material:  材質.003
+		Custom split normals with tangents being used
+		num positions      :  20
+		num normals        :  20
+		num tangents       :  80
+		num uvs            :  40
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  10
+	processing begun of mesh:  06.003
+		processing begun of material:  材質.003
+		registered as also a user of material:  材質.003
+		Custom split normals with tangents being used
+		num positions      :  20
+		num normals        :  20
+		num tangents       :  80
+		num uvs            :  40
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  10
+	processing begun of mesh:  06.004
+		processing begun of material:  材質.003
+		registered as also a user of material:  材質.003
+		Custom split normals with tangents being used
+		num positions      :  20
+		num normals        :  20
+		num tangents       :  80
+		num uvs            :  40
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  10
+	processing begun of mesh:  06.005
+		processing begun of material:  材質.003
+		registered as also a user of material:  材質.003
+		Custom split normals with tangents being used
+		num positions      :  20
+		num normals        :  20
+		num tangents       :  80
+		num uvs            :  40
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  10
+	processing begun of mesh:  07
+		processing begun of material:  材質.010
+			processing texture 
+		Custom split normals with tangents being used
+		num positions      :  20
+		num normals        :  20
+		num tangents       :  80
+		num uvs            :  40
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  10
+	processing begun of mesh:  07.001
+		processing begun of material:  材質.004
+			processing texture 
+		Custom split normals with tangents being used
+		num positions      :  20
+		num normals        :  20
+		num tangents       :  80
+		num uvs            :  40
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  10
+	processing begun of mesh:  07.002
+		processing begun of material:  材質.004
+		registered as also a user of material:  材質.004
+		Custom split normals with tangents being used
+		num positions      :  20
+		num normals        :  20
+		num tangents       :  80
+		num uvs            :  40
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  10
+	processing begun of mesh:  07.003
+		processing begun of material:  材質.010
+		registered as also a user of material:  材質.010
+		Custom split normals with tangents being used
+		num positions      :  20
+		num normals        :  20
+		num tangents       :  80
+		num uvs            :  40
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  10
+	processing begun of mesh:  07.004
+		processing begun of material:  材質.004
+		registered as also a user of material:  材質.004
+		Custom split normals with tangents being used
+		num positions      :  20
+		num normals        :  20
+		num tangents       :  80
+		num uvs            :  40
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  10
+	processing begun of mesh:  07.005
+		processing begun of material:  材質.004
+		registered as also a user of material:  材質.004
+		Custom split normals with tangents being used
+		num positions      :  20
+		num normals        :  20
+		num tangents       :  80
+		num uvs            :  40
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  10
+	processing begun of mesh:  08
+		processing begun of material:  材質.006
+			processing texture 
+		Custom split normals with tangents being used
+		num positions      :  20
+		num normals        :  20
+		num tangents       :  80
+		num uvs            :  40
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  10
+	processing begun of mesh:  08.001
+		processing begun of material:  材質.006
+		registered as also a user of material:  材質.006
+		Custom split normals with tangents being used
+		num positions      :  20
+		num normals        :  20
+		num tangents       :  80
+		num uvs            :  40
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  10
+	processing begun of mesh:  08.002
+		processing begun of material:  材質.006
+		registered as also a user of material:  材質.006
+		Custom split normals with tangents being used
+		num positions      :  20
+		num normals        :  20
+		num tangents       :  80
+		num uvs            :  40
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  10
+	processing begun of mesh:  08.003
+		processing begun of material:  材質.006
+		registered as also a user of material:  材質.006
+		Custom split normals with tangents being used
+		num positions      :  20
+		num normals        :  20
+		num tangents       :  80
+		num uvs            :  40
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  10
+	processing begun of mesh:  08.004
+		processing begun of material:  材質.006
+		registered as also a user of material:  材質.006
+		Custom split normals with tangents being used
+		num positions      :  20
+		num normals        :  20
+		num tangents       :  80
+		num uvs            :  40
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  10
+	processing begun of mesh:  08.005
+		processing begun of material:  材質.006
+		registered as also a user of material:  材質.006
+		Custom split normals with tangents being used
+		num positions      :  20
+		num normals        :  20
+		num tangents       :  80
+		num uvs            :  40
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  10
+	processing begun of light (POINT):  Light.003
+	processing begun of shadows for light:  Light.003
+	processing begun of light (POINT):  Light
+	processing begun of shadows for light:  Light
+	processing begun of light (POINT):  Light.001
+	processing begun of shadows for light:  Light.001
+	processing begun of light (POINT):  Light.002
+	processing begun of shadows for light:  Light.002
+========= Writing of JSON file started =========
+	writing mesh:  平面
+	writing mesh:  圓柱體
+	writing mesh:  圓柱體.001
+	writing mesh:  圓柱體.002
+	writing mesh:  圓柱體.003
+	writing mesh:  立方體.097
+	writing mesh:  立方體.096
+	writing mesh:  球體.008
+	writing mesh:  球體.005
+	writing mesh:  立方體.001
+	writing mesh:  立方體.002
+	writing mesh:  球體.001
+	writing mesh:  球體.002
+	writing mesh:  立方體.003
+	writing mesh:  立方體.004
+	writing mesh:  球體.003
+	writing mesh:  球體.004
+	writing mesh:  立方體.005
+	writing mesh:  立方體.006
+	writing mesh:  球體.006
+	writing mesh:  球體.007
+	writing mesh:  01
+	writing mesh:  01.001
+	writing mesh:  01.002
+	writing mesh:  01.003
+	writing mesh:  01.004
+	writing mesh:  01.005
+	writing mesh:  02
+	writing mesh:  02.001
+	writing mesh:  02.002
+	writing mesh:  02.003
+	writing mesh:  02.004
+	writing mesh:  02.005
+	writing mesh:  03
+	writing mesh:  03.001
+	writing mesh:  03.002
+	writing mesh:  03.003
+	writing mesh:  03.004
+	writing mesh:  03.005
+	writing mesh:  04
+	writing mesh:  04.001
+	writing mesh:  04.002
+	writing mesh:  04.003
+	writing mesh:  04.004
+	writing mesh:  04.005
+	writing mesh:  05
+	writing mesh:  05.001
+	writing mesh:  05.002
+	writing mesh:  05.003
+	writing mesh:  05.004
+	writing mesh:  05.005
+	writing mesh:  06
+	writing mesh:  06.001
+	writing mesh:  06.002
+	writing mesh:  06.003
+	writing mesh:  06.004
+	writing mesh:  06.005
+	writing mesh:  07
+	writing mesh:  07.001
+	writing mesh:  07.002
+	writing mesh:  07.003
+	writing mesh:  07.004
+	writing mesh:  07.005
+	writing mesh:  08
+	writing mesh:  08.001
+	writing mesh:  08.002
+	writing mesh:  08.003
+	writing mesh:  08.004
+	writing mesh:  08.005
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 33.6793 secs
